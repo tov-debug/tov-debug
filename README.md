@@ -13,5 +13,5 @@ Beyond the screen, I enjoy the quiet focus of a rainy winter day and spend time 
 * There is another project I am currently working on. Stay tuned for updates!
 
 ---
->If you made it this far, I'd love to connect! You can contact Me via Email: tov.a25800@gmail.com
+>If you made it this far, you are more than welcome to follow⭐
 
