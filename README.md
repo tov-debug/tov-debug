@@ -21,7 +21,7 @@ Go 	<code><img width="35" src="https://raw.githubusercontent.com/marwin1991/prof
 
 ## My Repositories:
 * **Assembler**: as every other CS student at the OpenU, I wrote with [naamaovd-code](https://github.com/naamaovd-code) a custom C-based assembler project. Digging into memory management and data parsing was challenging but incredibly rewarding. (Private repo, happy to share upon request).
-* **Custom HTTP Server** – A lightweight HTTP server built from scratch with raw sockets, featuring an integrated ACL and basic payload inspection. Containerized with Docker.
+* **Custom HTTP Server**: Combining my passion for networking and security, I put class concepts into practice by building a lightweight HTTP server. Translating core protocol theory into functional code was both challenging and deeply satisfying.
 * **student_notes**: My personal archive of academic assignments and notes, cleaned up and documented so others can hopefully learn from my late-night debugging sessions.
 * There is another project I am currently working on. Stay tuned for updates!
 
