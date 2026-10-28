@@ -20,7 +20,8 @@ Beyond the screen, I enjoy the quiet focus of a rainy winter day and diving into
 * **Custom HTTP Server**: Combining my passion for networking and security, I put class concepts into practice by building a lightweight HTTP server. Translating core protocol theory into functional code was both challenging and deeply satisfying.
 * **student_notes**: My personal archive of academic assignments and notes, cleaned up and documented so others can hopefully learn from my late-night debugging sessions.
 * **code_tov**: My best way to master algorithms is by explaining the solutions - feel free to use my learning process to your advantage!
-* There is another project I am currently working on. Stay tuned for updates!
+
+  Currently exploring open source...
 
 ---
 >If you made it this far, you are more than welcome to follow⭐
